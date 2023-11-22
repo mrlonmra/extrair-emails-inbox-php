@@ -1,1 +1,1 @@
-imap.kinghost.net:993/imap/ssl,suporte@ileva.com.br,FD@45gd5
+imap.kinghost.net:993/imap/ssl,suporte@ileva.com.br,F5gd5
